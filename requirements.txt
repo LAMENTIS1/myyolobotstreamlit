@@ -1,0 +1,6 @@
+streamlit==1.22.0
+opencv-python-headless==4.8.0.76
+numpy==1.24.2
+ultralytics==8.0.122
+matplotlib==3.8.0
+gunicorn
